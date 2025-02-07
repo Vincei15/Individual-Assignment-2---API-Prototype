@@ -4,7 +4,6 @@ public class DogObject {
     private String message;
     private String status;
 
-    // Getters and Setters
     public String getMessage() {
         return message;
     }
